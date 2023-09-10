@@ -1,7 +1,7 @@
 # CaMC
 
 Username: admin
-,Password: secret
+Password: secret
 
 Username: noob
-,Password: password
+Password: password
